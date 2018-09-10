@@ -1,0 +1,43 @@
+body{
+	/*background-image: url(background.jpg);*/
+	/*background-image: url(https://www.planwallpaper.com/static/images/518164-backgrounds.jpg);*/
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYSaRITc6B1B0N8SNMoOzxWKcwj2UqIZCIJr_wdL3sPTCt-MxAQ);
+	/*background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF1HQ_IvzO4FusD6Ai7se6duLHRo33sfGul6Mwo7MePbwr9jyUtQ);*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 50px;
+}
+
+#quote{
+	font-family: garamond;
+	font-size: 3em;
+	font-style: italic;
+	font-weight: bold;
+	padding-top: 10%;
+}
+
+#author{
+	font-family: georgia;
+	font-size: 2em;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.fa{
+	font-size: 20px;
+	/*color: #00aced;*/
+	color: white;
+}
+
+.btn:enabled{
+	/*box-shadow: 0 5px 10px 0;*/
+	border: 2px solid lightgray;
+	color: #00aced;
+}
+
+.btn:hover{
+	/*background-color: lightgray;*/
+	/*color: #00aced;*/
+	border-color: white;
+}
+
